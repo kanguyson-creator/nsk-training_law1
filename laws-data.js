@@ -92,7 +92,7 @@ window.NSK_LAWS_DATA = {
             },
             {
               "title": "ระเบียบนายทะเบียนสหกรณ์ ว่าด้วยลักษณะต้องห้ามของบุคคลที่เป็นหรือทำหน้าที่เป็นกรรมการหรือผู้จัดการของสหกรณ์ พ.ศ.2566 (27 มิ.ย. 2566)",
-              "url": "https://www.cad.go.th/wp-content/uploads/2026/03/23.-%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A-%E0%B8%99%E0%B8%97%E0%B8%AA.-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B8%8B%E0%B8%B7.pdf",
+              "url": "http://e-service.cpd.go.th/elib/pdf_file/1.%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A1.pdf",
               "important": true
             },
             {
